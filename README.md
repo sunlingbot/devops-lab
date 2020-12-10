@@ -8,5 +8,5 @@
 ├── data # 存放 Hugo 处理的数据
 ├── layouts # 存放布局文件
 ├── static # 存放静态文件 图片 CSS JS文件
-└── themes #存放主题
+└── themes # 存放主题
 ```
