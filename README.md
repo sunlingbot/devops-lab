@@ -1,5 +1,5 @@
 # devops-lab
-```
+```markdown
 .
 ├── archetypes # 存放生成博客的模版
 ├── assets # 存放被 Hugo Pipes 处理的文件
